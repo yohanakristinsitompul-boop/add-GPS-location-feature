@@ -54,35 +54,35 @@ Aplikasi ini menggunakan beberapa fitur native dari perangkat:
 
 ## 1. Tampilan Awal Profile Card
 
-(screenshots/awal.jpeg)
+(<img width="540" height="1412" alt="WhatsApp Image 2026-07-09 at 01 35 29 (2)" src="https://github.com/user-attachments/assets/91bae87b-6de5-4213-acc3-1d877769a82d" />)
 
 ## 2. Input Data Profile
 
-(screenshots/input.jpeg)
+(<img width="720" height="1600" alt="WhatsApp Image 2026-07-09 at 01 35 45 (1)" src="https://github.com/user-attachments/assets/cb05aaeb-a3e5-4ad4-98c9-20609904c094" />)
 
 ## 3. Fitur Camera
 
-(screenshots/camera.jpeg)
+(<img width="540" height="1412" alt="WhatsApp Image 2026-07-09 at 01 36 02" src="https://github.com/user-attachments/assets/56ac498b-fcbf-44ca-bd9c-6ef5660a7298" />)
 
 ## 4. Fitur Gallery
 
-(screenshots/gallery.jpeg)
+(<img width="540" height="1412" alt="WhatsApp Image 2026-07-09 at 01 36 11" src="https://github.com/user-attachments/assets/f8ec452e-a759-42c3-ad0c-035720829b1c" />)
 
 ## 5. Fitur GPS
 
-(screenshots/gps.jpeg)
+(<img width="720" height="1600" alt="WhatsApp Image 2026-07-09 at 01 36 27" src="https://github.com/user-attachments/assets/71980cb1-3365-47bf-ab0b-aa26d79378d3" />)
 
 ## 6. Fitur Google Maps
 
-(screenshots/maps.jpeg)
+(<img width="720" height="1600" alt="WhatsApp Image 2026-07-09 at 01 36 44" src="https://github.com/user-attachments/assets/0d7699c3-81d8-4912-b4f7-93dfa5089ba3" />)
 
 ## 7. Reset Data
 
-(screenshots/reset.jpeg)
+(<img width="720" height="1600" alt="WhatsApp Image 2026-07-09 at 01 37 55" src="https://github.com/user-attachments/assets/4c06cde4-21dc-4404-a996-21e9b7cb2e6c" />)
 
 ## 8. Dialog Izin Permission
 
-(screenshots/permission.jpeg)
+(<img width="720" height="1600" alt="WhatsApp Image 2026-07-09 at 01 52 06" src="https://github.com/user-attachments/assets/fd72d792-d3ed-4e0f-863f-16453f91d1e2" />)
 
 ---
 
