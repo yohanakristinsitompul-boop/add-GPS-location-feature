@@ -54,35 +54,35 @@ Aplikasi ini menggunakan beberapa fitur native dari perangkat:
 
 ## 1. Tampilan Awal Profile Card
 
-![Tampilan Awal](screenshots/awal.jpeg)
+(screenshots/awal.jpeg)
 
 ## 2. Input Data Profile
 
-![Input Data Profile](screenshots/input.jpeg)
+(screenshots/input.jpeg)
 
 ## 3. Fitur Camera
 
-![Camera](screenshots/camera.jpeg)
+(screenshots/camera.jpeg)
 
 ## 4. Fitur Gallery
 
-![Gallery](screenshots/gallery.jpeg)
+(screenshots/gallery.jpeg)
 
 ## 5. Fitur GPS
 
-![GPS](screenshots/gps.jpeg)
+(screenshots/gps.jpeg)
 
 ## 6. Fitur Google Maps
 
-![Google Maps](screenshots/maps.jpeg)
+(screenshots/maps.jpeg)
 
 ## 7. Reset Data
 
-![Reset](screenshots/reset.jpeg)
+(screenshots/reset.jpeg)
 
 ## 8. Dialog Izin Permission
 
-![Permission](screenshots/permission.jpeg)
+(screenshots/permission.jpeg)
 
 ---
 
